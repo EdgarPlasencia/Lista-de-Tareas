@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>examen_plasencia_edgar_en_US.qm</file>
+        <file>french.qm</file>
+    </qresource>
+</RCC>

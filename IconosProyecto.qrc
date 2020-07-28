@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>IconosProyecto/Agregar.png</file>
+        <file>IconosProyecto/Eliminar.png</file>
+        <file>IconosProyecto/Listo.png</file>
+        <file>IconosProyecto/Write.ico</file>
+    </qresource>
+</RCC>
